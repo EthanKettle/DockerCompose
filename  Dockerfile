@@ -8,7 +8,7 @@ LABEL cohort="3001"
 LABEL animal="axolotl"
 
 # node application
-WORKDIR /Desktop/Movie-App/
+WORKDIR /Movie-App/
 
 # Copy
 COPY . .
